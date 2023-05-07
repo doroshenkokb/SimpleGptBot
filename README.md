@@ -9,8 +9,7 @@ SimpleGptBot может отвечать на любые вопросы
 
 ### Важно!:
 Для корректной работы API OpenAI нужен token,
-который можно получить по ссылке 
-```[https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)```
+который можно получить по ссылке ```https://platform.openai.com/account/api-keys```
 Пользователи из России могут столкнуться с трудностями регистрации.
 
 ### Технологии
