@@ -7,9 +7,10 @@ SimpleGptBot может отвечать на любые вопросы
 и запросы используя искуственный интелект.
 Работает на движке ```text-davinci-003```
 
-## Важно!:
-Для работы бота нужен токен OpenAI.
-Пользователи из России могут столкнуться с трудностями
+### Важно!:
+Для корректной работы API OpenAI нужен token,
+который можно получить по ссылке [https://platform.openai.com/account/api-keys](https://platform.openai.com/account/api-keys)
+Пользователи из России могут столкнуться с трудностями регистрации.
 
 ### Технологии
 ![Python](https://img.shields.io/badge/Python-3.9.8-%23254F72?style=for-the-badge&logo=python&logoColor=yellow&labelColor=254f72)
