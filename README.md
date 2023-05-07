@@ -20,7 +20,7 @@ SimpleGptBot может отвечать на любые вопросы
 ### Запуск проекта в dev-режиме:
 Клонируем репозиторий и переходим в него:
 ```bash
-git clone https://github.com/TroutBBBoy/SimpleGptBot
+git clone https://github.com/doroshenkokb/SimpleGptBot
 ```
 
 Создаем и активируем виртуальное окружение:
@@ -36,4 +36,4 @@ pip install -r requirements.txt
 ```
 
 #### Автор
-Дорошенко Кирилл - [https://github.com/TroutBBBoy](https://github.com/TroutBBBoy)
+Дорошенко Кирилл - [https://github.com/doroshenkokb](https://github.com/doroshenkokb)
