@@ -12,11 +12,6 @@ SimpleGptBot может отвечать на любые вопросы
 который можно получить по ссылке ```https://platform.openai.com/account/api-keys```.
 Пользователи из России могут столкнуться с трудностями регистрации.
 
-### Технологии
-![Python](https://img.shields.io/badge/Python-3.9.8-%23254F72?style=for-the-badge&logo=python&logoColor=yellow&labelColor=254f72)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-
 ### Запуск проекта в dev-режиме:
 Клонируем репозиторий и переходим в него:
 ```bash
