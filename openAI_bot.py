@@ -33,7 +33,7 @@ openai.api_key = OPEN_AI_TOKEN
 
 @bot.message_handler(content_types=["text"])
 def handle_text(message):
-    """Отправка сообщений."""
+    """Отправка сообщения."""
     try:
         response = openai.Completion.create(
             engine="text-davinci-003",
